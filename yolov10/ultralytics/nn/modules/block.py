@@ -748,6 +748,7 @@ class CIB(nn.Module):
             Conv(c1, 2 * c_, 1),
             Conv(2 * c_, 2 * c_, 3, g=2 * c_) if not lk else RepVGGDW(2 * c_),
             Conv(2 * c_, c2, 1),
+            Conv(c2, c2, 1),  # adding a new convolution
             Conv(c2, c2, 3, g=c2),
         )
 
