@@ -9,11 +9,11 @@ Run this project via [Colab Link](https://colab.research.google.com/drive/1DgS6s
 - Captured from both sunlit and shaded sides in various angles.  
 - Split into Training (70%), Testing (15%), and Validation (15%). 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/32e4e923-49f9-4261-8e7a-da557063f211" width="400"/>
+  <img src="https://github.com/user-attachments/assets/32e4e923-49f9-4261-8e7a-da557063f211" width="400" height="300"/>
 </div>
 - Images are categorized into two classes: Healthy fruits and Defective/Cracked fruits.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e1e170cc-28e3-481d-804d-20024b32844c" width="400"/>
+  <img src="https://github.com/user-attachments/assets/e1e170cc-28e3-481d-804d-20024b32844c" width="400" height="300"/>
 </div>
 
 
@@ -33,7 +33,9 @@ YOLOv10 is available in multiple model variants (n, s, m, l, xl) to balance spee
 ## Baisline Results:
 The default YOLOv10 model was evaluated using a learning rate of 0.001. 
 The model showed high precision for both "pomegranate" and "defective" categories, but recall and F1-score were notably low for the "defective" category.  
-![image](https://github.com/user-attachments/assets/0509bdbe-3989-42f4-932d-d582ce383fc6)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0509bdbe-3989-42f4-932d-d582ce383fc6" width="400" height="300"/>
+</div>
 
 ## Alterations and Improvements:
 - **Hyperparameter tuning**: Slight improvement in accuracy (0.38).  
@@ -45,7 +47,9 @@ The model showed high precision for both "pomegranate" and "defective" categorie
 
 ## Performance Comparison:
 The optimized model showed a significant improvement in recall, especially for defective pomegranates (+121%), enhancing both defect detection and yield estimation.
-![image](https://github.com/user-attachments/assets/78cceff8-a35f-4b77-887b-c725bd4ac85b)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/78cceff8-a35f-4b77-887b-c725bd4ac85b" width="400" height="300"/>
+</div>
 
 ## Conclusion
 This project demonstrates the potential of YOLOv10 for pomegranate yield estimation and loss detection. Future work may involve refining the model further and applying it to larger datasets for real-time agricultural monitoring.
