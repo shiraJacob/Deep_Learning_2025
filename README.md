@@ -1,6 +1,6 @@
 # YOLOv10 for Pomegranate Yield Estimation and Loss Detection
 
-Implementation of the YOLOv10 deep learning algorithm for detecting pomegranates in low-quality orchard images, improving model accuracy through architecture modification and model optimization to address challenges in detecting small, dark, and defective fruits.
+Implementation of the YOLOv10 deep learning algorithm for detecting pomegranates in orchard images, improving model accuracy through architecture modification and model optimization to address challenges in detecting small, dark, and defective fruits.
 
 Run this project via [Colab Link](https://colab.research.google.com/drive/1DgS6s2LFoq2O4ulE1rSIyUxwzFmrDgIg?usp=sharing#scrollTo=3GGYGMuyCbCl)
 
