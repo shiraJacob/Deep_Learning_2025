@@ -54,7 +54,7 @@ The optimized model showed a significant improvement in recall, especially for d
 ## Conclusion
 This project demonstrates the potential of YOLOv10 for pomegranate yield estimation and loss detection. Future work may involve refining the model further and applying it to larger datasets for real-time agricultural monitoring.
 
-### What I Learned:
+## What I Learned:
 - Applied YOLOv10 for object detection and model optimization.
 - Improved hyperparameter tuning and model performance.
 - Handled imbalanced datasets and real-world data challenges.
