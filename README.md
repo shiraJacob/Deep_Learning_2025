@@ -11,7 +11,9 @@ Run this project via [Colab Link](https://colab.research.google.com/drive/1DgS6s
 <div align="center">
   <img src="https://github.com/user-attachments/assets/32e4e923-49f9-4261-8e7a-da557063f211" width="400"/>
 </div>
+
 - Images are categorized into two classes: Healthy fruits and Defective/Cracked fruits.
+  
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e1e170cc-28e3-481d-804d-20024b32844c" width="400" height="300"/>
 </div>
@@ -54,7 +56,7 @@ The optimized model showed a significant improvement in recall, especially for d
 ## Conclusion
 This project demonstrates the potential of YOLOv10 for pomegranate yield estimation and loss detection. Future work may involve refining the model further and applying it to larger datasets for real-time agricultural monitoring.
 
-## What We Learned:
+## What I Learned:
 - Applied YOLOv10 for object detection and model optimization.
 - Improved hyperparameter tuning and model performance.
 - Handled imbalanced datasets and real-world data challenges.
@@ -62,4 +64,6 @@ This project demonstrates the potential of YOLOv10 for pomegranate yield estimat
 
 ## Acknowledgments:
 This project is based on the work of:
-Wang, Ao, Hui Chen, Lihao Liu, Kai Chen, Zijia Lin, Jungong Han, and Guiguang Ding. "YOLOv10: Real-Time End-to-End Object Detection." *arXiv preprint arXiv:2405.14458* (2024).
+Ao Wang, Hui Chen, Lihao Liu, Kai Chen, Zijia Lin, Jungong Han, and Guiguang Ding. "YOLOv10: Real-Time End-to-End Object Detection." *arXiv preprint arXiv:2405.14458* (2024).
+
+👥 This project was completed in collaboration with: Shira Aronovich, Shir Greif, Yuval Tenenboim.
